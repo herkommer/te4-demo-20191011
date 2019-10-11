@@ -1,0 +1,22 @@
+Vi går tillbaka till vår bilhandlare. 
+Hen vill ha ett verktygsstöd (program) för att hantera inköp av nya bilar, försäljning 
+och marknadsföring av bilar. 
+Fundera fritt på hur du beskriver domänmodellen och skriv ned den. 
+Du letar efter substantiv, verb och attribut.
+
+Acme Car Sales System - ACSS
+ACSS.Windows.GUI
+ACSS.Domainmodel
+ACSS.DAL
+etc 
+etc
+
+MVP = minsta fungerande lösning. Minimal Viable Product
+GUI med boxar för att registrera en ny bil
+spara temporärt i ett enkelt repository (List<T>)
+Visa lista med bilar i lager
+
+Klasser?
+Car
+CarsInStock
+
